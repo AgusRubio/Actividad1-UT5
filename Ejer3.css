@@ -26,7 +26,7 @@ cabecera
 imagenPortada
 {
   width: 25%;
-  background-image: url("img/caratula.jpg");
+  background-image: url("caratula.jpg");
   background-size: 100% 100%;
   box-shadow: 5px 5px 15px black;
 }
