@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Ejer3.css"?>
+
+<disco>
+  <cabecera>
+    <imagenPortada></imagenPortada>
+    <tituloDatos>
+      <etiqueta>ARTISTA:</etiqueta>
+      <etiqueta>TÍTULO:</etiqueta>
+      <etiqueta>SELLO:</etiqueta>
+      <etiqueta>REFERENCIA:</etiqueta>
+      <etiqueta>AÑO:</etiqueta>
+      <etiqueta>PAIS:</etiqueta>
+      <etiqueta>FORMATO:</etiqueta>
+      <etiqueta>GENERO:</etiqueta>
+      <etiqueta>ESTILO:</etiqueta>
+      <etiqueta>OBSERVACIONES:</etiqueta>
+    </tituloDatos>
+    <datos>
+      <artista>ABC (2)</artista>
+      <titulo>The Collection</titulo>
+      <sello>KARUSSELL INTERNACIONAL</sello>
+      <referencia>551 831-2</referencia>
+      <año>1996</año>
+      <pais>Germany</pais>
+      <formato>CD - Compilation</formato>
+      <genero>Funk / Soul, Electronic</genero>
+      <estilo>Funk Disco, Synth Pop</estilo>
+      <observaciones>Licensed from Mercury Records Ltd (London)</observaciones>
+    </datos>
+  </cabecera>
+
+  <informacionDisco>
+    <cd>CD 1</cd>
+    <numeroCancion>
+      <numero>01</numero>
+      <numero>02</numero>
+      <numero>03</numero>
+      <numero>04</numero>
+      <numero>05</numero>
+      <numero>06</numero>
+      <numero>07</numero>
+      <numero>08</numero>
+      <numero>09</numero>
+      <numero>10</numero>
+      <numero>11</numero>
+      <numero>12</numero>
+      <numero>13</numero>
+      <numero>14</numero>
+      <numero>15</numero>
+      <numero>16</numero>
+      <numero>17</numero>
+      <numero>18</numero>
+    </numeroCancion>
+    <tituloCancion>
+      <titulo>Poison Arrow<duracion> - [03:23]</duracion></titulo>
+      <titulo>The Look Of Love (Part One)<duracion> - [03:29]</duracion></titulo>
+      <titulo>The Night You Murdered Love<duracion> - [04:53]</duracion></titulo>
+      <titulo>Tears Are Not Enought<duracion> - [03:29]</duracion></titulo>
+      <titulo>Be Near Me<duracion> - [03:37]</duracion></titulo>
+      <titulo>I'm Love With You<duracion> - [04:35]</duracion></titulo>
+      <titulo>The Real Thing<duracion> - [04:54]</duracion></titulo>
+      <titulo>Love's A Dangerous Laguage<duracion> - [03:40]</duracion></titulo>
+      <titulo>The Greatest Love Of All<duracion> - [05:34]</duracion></titulo>
+      <titulo>When Smokey Sings<duracion> - [04:18]</duracion></titulo>
+      <titulo>One Better World<duracion> - [05:38]</duracion></titulo>
+      <titulo>Vanity Kills<duracion> - [03:29]</duracion></titulo>
+      <titulo>Bite The Hands<duracion> - [03:07]</duracion></titulo>
+      <titulo>Chicago (Abridge)<duracion> - [03:40]</duracion></titulo>
+      <titulo>Minneapolis<duracion> - [02:57]</duracion></titulo>
+      <titulo>Think Again<duracion> - [03:39]</duracion></titulo>
+      <titulo>Never More Than Now<duracion> - [06:03]</duracion></titulo>
+      <titulo>All Of My Heart<duracion> - [04:49]</duracion></titulo>
+    </tituloCancion>
+  </informacionDisco>
+</disco>
