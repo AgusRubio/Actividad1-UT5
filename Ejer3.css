@@ -33,12 +33,12 @@ imagenPortada
 
 tituloDatos
 {
-  width: 10%;
+  width: 10%; /*Esto ponlo a auto, porque al no caber no está respetando el ancho*/
   height: 100%;
-  float: right;
+  float: right; /* Float y display incompatibles*/
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /*Añade align-items: flex-end*/
 }
 
 etiqueta
